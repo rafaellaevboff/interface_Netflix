@@ -21,6 +21,6 @@ function linkTrailerTWD(){
 }
 
 function linkInfosTWD(){
-    window.location.href="/atoresSeriePrincipal.html";
+    window.location.href="atoresSeriePrincipal.html";
     //<a href="https://www.youtube.com/watch?v=sfAc2U20uyg&t=10s"></a>
 }

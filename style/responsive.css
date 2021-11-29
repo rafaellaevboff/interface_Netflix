@@ -4,9 +4,13 @@
         flex-direction: column;
     }
 
+    .botoes{
+        display: flex;
+    }
+
     .botao{
         margin-bottom: 5px;
-        width: 300px;
+        width: 150px;
     }
 }
 

@@ -135,9 +135,7 @@ elemento pai GUARDA elementos filhos
 
 /*Atores TWD*/
 .infos{
-    margin-top: 20px;
-    margin-left: 20px;
-    margin-right: 300px;
+    margin: 20px;
 }
 
 .tituloTemp{
